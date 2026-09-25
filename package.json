@@ -1,0 +1,19 @@
+{
+  "name": "segfaulty.xyz",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.segfaulty.xyz/chas/segfaulty.xyz.git"
+  },
+  "author": "chas",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^6.0.1",
+    "express": "^5.2.1"
+  }
+}
